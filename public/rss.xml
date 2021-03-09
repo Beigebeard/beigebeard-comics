@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed of gatsby-starter-webcomic]]></title><description><![CDATA[Template for webcomics / artwork]]></description><link>https://github.com/JLDevOps/gatsby-starter-webcomic</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 06 Mar 2021 20:48:43 GMT</lastBuildDate><item><title><![CDATA[Excepteur sint occaecat]]></title><link>https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic1/</link><guid isPermaLink="false">https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic1/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a8bffeb0395117a5c2d54c770d50e80e/5d675/day2-gaming-console.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAACyElEQVQ4y81US08TURTmlxmjENJ350V5GBZqUqMkiokEMUYIRiVKxIjQ0pZOoRWkIy1Q+2BeFGh0r+BKA7pXdxZdfN4705lMocGNCxdf7rn3nPPdc+95tHGKChuyAraxWmA1HXx+DcKrFUNm6Zmls2wdHG2tyNiGzFqEuTy6lpbB6VsmgaoZ57ZPK0LWSdowtpy5YgnMXAyMmDIRj4OXJJv09Ag3ZXBJEcx8Eoy1phbgJ7I/FoM/noB/NgKGfAGnbZnPbxmhgzBInWJx05kgEI2CXVsHQ3RMuWKspz+5cYt1m2FULhtgZdl4Xmh5GbxO/pPuKehLjifRSWgpeEVBQN+Gd6sGX9VEoFBCMJsz9/oOvPou/GSltsez3eZMCKeq8FR0XFqMYSj5GNfnJjEgJXHj6RhuTtzBtdeicTYkPkE4NQtPiWSbJs1BakdIb/MSsph0DweiB/sRL+pFL36pDI4KXhytu/FbYVAv+7A/48LnhBuZ7DB8JaUpqQYh/ROvuo1b6wl8zfjxItyHsVAPCvd7gbcCfhQ5fH/D4qfOozbVhcjIIKavXsRhwoXxjWm4lR2Dw45QIJsOuYZ45RF2J4IYDnB4frkTY13dqKs8DhbcOEy78S3PIDrCQ33ZB2VUQHXUg6XKKNo3axAU2UiqHaFP28FANoovKQ/mrvRgnES4+5DD3moIK4thZNNhfMj34t1kANHBfkh3L+BTxIXb0hQ8qhmhTUgFgSSks6jgwfwwPsbJH854oIk9YNJJnMmVcTZXgiudQVHsx960G+9n3Hg2P4jOjYrhyzaVTYOUJxnrIKS+TArdi7M4L60hQLohpGkEKhgin1vdQCgdRTCTRHuB1CPROXv/RGHT2xitCr9ahUAHgzUsGsUrEAKqCxIbK7KTdWg5WN1iQG465xQqW3rZnkqcY0Kd7GUHaav933TN0+Yf4f8n/ANDuUx05IsNYwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Comic 1&quot;
+        title=&quot;Comic 1&quot;
+        src=&quot;/static/a8bffeb0395117a5c2d54c770d50e80e/799d3/day2-gaming-console.png&quot;
+        srcset=&quot;/static/a8bffeb0395117a5c2d54c770d50e80e/00d96/day2-gaming-console.png 148w,
+/static/a8bffeb0395117a5c2d54c770d50e80e/0b23c/day2-gaming-console.png 295w,
+/static/a8bffeb0395117a5c2d54c770d50e80e/799d3/day2-gaming-console.png 590w,
+/static/a8bffeb0395117a5c2d54c770d50e80e/2a3d6/day2-gaming-console.png 885w,
+/static/a8bffeb0395117a5c2d54c770d50e80e/5d675/day2-gaming-console.png 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About]]></title><description><![CDATA[About Hi I’m Lorem ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna…]]></description><link>https://github.com/JLDevOps/gatsby-starter-webcomic/about/about/</link><guid isPermaLink="false">https://github.com/JLDevOps/gatsby-starter-webcomic/about/about/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;About&lt;/h1&gt;
+&lt;br/&gt;
+&lt;h2&gt;Hi I’m Lorem ipsum&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/em&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;FAQ&lt;/h2&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Tellus molestie nunc non blandit massa enim nec dui?&lt;/p&gt;
+&lt;p&gt;Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Donec ac odio tempor orci dapibus ultrices in&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Contact&lt;/h2&gt;
+&lt;p&gt;Reach me at &lt;a href=&quot;lorem@lorem.com&quot;&gt;Lorem@Lorem.com&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Information]]></title><description><![CDATA[Heading 1 Heading 2 Heading 3 Heading 4 Paragraph Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt…]]></description><link>https://github.com/JLDevOps/gatsby-starter-webcomic/post/post1/</link><guid isPermaLink="false">https://github.com/JLDevOps/gatsby-starter-webcomic/post/post1/</guid><pubDate>Fri, 09 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Heading 1&lt;/h1&gt;
+&lt;h2&gt;Heading 2&lt;/h2&gt;
+&lt;h3&gt;Heading 3&lt;/h3&gt;
+&lt;h4&gt;Heading 4&lt;/h4&gt;
+&lt;br&gt;
+&lt;h2&gt;Paragraph&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;h2&gt;Syntax for Posts&lt;/h2&gt;
+&lt;p&gt;You can use either markdown or HTML for the post files (post.md)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Commodo Consequat]]></title><link>https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic2/</link><guid isPermaLink="false">https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic2/</guid><pubDate>Wed, 10 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/02fc0ad1f85328e7f19367b11dbbe8ef/5d675/day3-gaming-mouse.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAB+UlEQVQ4y62U204iQRCGfT7xThS9GYUZGGYYFIU5tBE0xrhxvdiNiUa92fUAKioonlA0ntDV9aF+q1vAIUEZEi8qlenu+eqvqq7ush/Owc26P2t4tzlPF9D3thAv5WHeHMOufpxtZV3uj/pB57EMuwbk36mrI+j5LajZvzCK2yKI5dpvCWxskjcKOej7WcQOcu9W2BYW3dmEcbhLATsAcs+VhDf/QM2tI0Je29lAklSmbk4o5XLnKXPPAcnKEcy7U+gHWaRuTxupumvtSaFYIyUcYJIqaf4nlLUVsdZ05iuF7ojC08/jF0XIY1PQVQY17ECZXYBV5XX2oLAJTGk6LxXoqysEyyAoxRCWTQzJtmgW+3dZg3kEcgUmKVHSc1CCFoKKCSXCMDAQh/TrNyZer0VQ6/7cI5DfvdsTDCcz0NRJ9A8akMMMAb+O/skZsP91oFeFVL/kdQlKYgoj8RkEZQuqloa/V0OfMw37uULADmoopoSmJUJNMKIZjCZmIUcm4OsJYXBuAezlyrtCAaXoDhV+ZD+HEDUiROn2BmLo7otCK+TB6qP34LGGjStBKgOpNHy+kFDnz/yAXetwZ12uef5IJMpFSItLkJZXkaiU4FRbDEHblN1QahCjO8moEe1gXwKbZpY34O6s7Rx/CmwJdQE8vzbfYd8OfAPrL3Osee1stQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Comic 2&quot;
+        title=&quot;Comic 2&quot;
+        src=&quot;/static/02fc0ad1f85328e7f19367b11dbbe8ef/799d3/day3-gaming-mouse.png&quot;
+        srcset=&quot;/static/02fc0ad1f85328e7f19367b11dbbe8ef/00d96/day3-gaming-mouse.png 148w,
+/static/02fc0ad1f85328e7f19367b11dbbe8ef/0b23c/day3-gaming-mouse.png 295w,
+/static/02fc0ad1f85328e7f19367b11dbbe8ef/799d3/day3-gaming-mouse.png 590w,
+/static/02fc0ad1f85328e7f19367b11dbbe8ef/2a3d6/day3-gaming-mouse.png 885w,
+/static/02fc0ad1f85328e7f19367b11dbbe8ef/5d675/day3-gaming-mouse.png 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Id est laborum]]></title><description><![CDATA[Paragraph Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit…]]></description><link>https://github.com/JLDevOps/gatsby-starter-webcomic/post/post2/</link><guid isPermaLink="false">https://github.com/JLDevOps/gatsby-starter-webcomic/post/post2/</guid><pubDate>Fri, 10 Nov 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Paragraph&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit eget gravida cum sociis natoque penatibus. Vitae semper quis lectus nulla at volutpat diam. Sagittis purus sit amet volutpat consequat. Egestas dui id ornare arcu odio ut. Mi bibendum neque egestas congue quisque egestas diam in arcu. Mi bibendum neque egestas congue. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Nunc sed id semper risus in hendrerit gravida rutrum. Donec ac odio tempor orci dapibus ultrices in iaculis nunc. Morbi tristique senectus et netus et malesuada fames ac. Faucibus vitae aliquet nec ullamcorper sit. Nullam eget felis eget nunc lobortis mattis aliquam faucibus purus.&lt;/p&gt;</content:encoded></item></channel></rss>
