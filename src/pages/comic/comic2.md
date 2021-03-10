@@ -1,5 +1,6 @@
 ---
 title: Commodo Consequat
+page: Page 03
 date: 2018-10-10
 path: "/comic/comic2"
 spoiler: Duis aute irure

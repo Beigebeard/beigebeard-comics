@@ -4,7 +4,7 @@ import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout/Layout';
 import SEO from '../components/SEO/SEO';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faArrowLeft, faArrowRight } from '@fortawesome/free-solid-svg-icons'
+import { faChevronLeft, faAngleLeft, faArrowRight, faAngleDoubleLeft  } from '@fortawesome/free-solid-svg-icons'
 
 class BlogPostTemplate extends React.Component {
   constructor(props) {
@@ -26,32 +26,33 @@ class BlogPostTemplate extends React.Component {
         <div className="article">
           <h1>{post.frontmatter.title}</h1>
           <p className="subtitle">
-            {post.frontmatter.date}
+            {post.frontmatter.spoiler}
             &nbsp; • &nbsp;
-            {post.frontmatter.tags &&
+            {post.frontmatter.date}
+            {/* {post.frontmatter.tags &&
               post.frontmatter.tags.map(tag => (
                 <span key={tag} className="subtitle-tag">
                   <Link to={'/tags/' + tag.toLowerCase()}>#{tag}</Link>
                 </span>
-              ))}
+              ))} */}
           </p>
-
         </div>
         <div className="post-footer">
           <ul
             style={{
               display: 'flex',
               flexWrap: 'wrap',
-              justifyContent: 'space-between',
+              justifyContent: 'space-evenly',
               listStyle: 'none',
               padding: 0,
             }}
           >
             <li>
               {previous && (
-                <Link to={previous.fields.slug} rel="prev">
-                  <FontAwesomeIcon icon={faArrowLeft} /> {previous.frontmatter.title}
+                <Link to={previous.fields.slug} rel="prev" style={{color:"#0d0",fontSize:"1rem", fontFamily: "Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace"}}>
+                  <FontAwesomeIcon icon={faAngleDoubleLeft}/> <FontAwesomeIcon icon={faAngleLeft}/> Previous
                 </Link>
+
               )}
             </li>
             <li>
@@ -76,8 +77,8 @@ class BlogPostTemplate extends React.Component {
           >
             <li>
               {previous && (
-                <Link to={previous.fields.slug} rel="prev">
-                  <FontAwesomeIcon icon={faArrowLeft} /> {previous.frontmatter.title}
+                <Link to={previous.fields.slug} rel="prev" style={{color:"white",fontSize:"3rem"}}>
+                  <FontAwesomeIcon icon={faAngleDoubleLeft} /> {previous.frontmatter.title}
                 </Link>
               )}
             </li>

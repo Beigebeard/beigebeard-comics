@@ -1,5 +1,6 @@
 ---
 title: Excepteur sint occaecat
+page: Page 03
 date: 2018-11-10
 path: "/comic/comic1"
 featuredImage: ../../images/day2-gaming-console.png

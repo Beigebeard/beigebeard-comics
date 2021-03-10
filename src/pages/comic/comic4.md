@@ -1,7 +1,7 @@
 ---
-title: Commodo Consequat
+title: Chapter 01
+page: Page 03
 date: 2021-03-01
-path: "/comic/comic3"
 spoiler: Duis aute irure
 featuredImage: ../../images/day3-gaming-mouse.png
 tags: []

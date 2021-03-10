@@ -47,17 +47,26 @@ header .nav a:hover {
 }
 
 .bg-light {
-  background-color: grey;
+  background-color: #444;
 }
+
 
 .navbar {
   padding-left: 30px;
   padding-right: 30px;
 }
 
+.navbar-dark .navbar-brand {
+  color: #0f0;
+  font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
+}
+
 .navbar-brand {
   font-size: 1.75rem;
   font-weight: 500;
+  color: rgb(179, 255, 179);
+  padding-top: 0rem;
+  padding-bottom: 0rem;
 }
 
 .navbar-nav .nav-link {
@@ -75,3 +84,10 @@ header .nav a:hover {
   padding-bottom: .3125rem;
 }
 
+.navbar-dark p {
+  margin-bottom: 0rem;
+}
+
+.customDark {
+  background-color: #222;
+}

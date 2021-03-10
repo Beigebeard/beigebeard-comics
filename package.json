@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-regular-svg-icons": "^5.15.2",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/react-fontawesome": "^0.1.7",
     "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^2.3.0",
@@ -59,7 +60,10 @@
     "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.14.3",
     "gh-pages": "^2.0.1",
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "sass": "^1.32.8",
+    "sass-loader": "^11.0.1",
+    "webpack": "^5.24.4"
   },
   "homepage": "https://github.com/JLDevOps/gatsby-starter-webcomic",
   "license": "Apache",
