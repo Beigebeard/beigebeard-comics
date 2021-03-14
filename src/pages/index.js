@@ -6,46 +6,27 @@ import {Card} from 'react-bootstrap';
 
 import Layout from '../components/Layout/Layout';
 import SEO from '../components/SEO/SEO';
+import TitleBar from '../components/TitleBar/TitleBar';
 
 class BlogIndex extends React.Component {
   render() {
     const posts = _.get(this, 'props.data.allMarkdownRemark.edges');
+    
+    const previous = posts[1].node;
+    const next = posts[0].node
+    const start = posts[posts.length-1].node
+    const end = posts[0].node
+
     return (
       <Layout>
-        <SEO />
-        <div className="home">
-          {posts.map(({ node }) => {
-            const title = _.get(node, 'frontmatter.title') || node.fields.slug;
-            let featuredImgFluid = _.get(node, 'frontmatter.featuredImage.childImageSharp.fluid');
-            let postTitle;
-            let imageQuery = "";
-            if(featuredImgFluid) {
-              postTitle = "";
-              imageQuery = <Link to={node.fields.slug}><Img fluid={featuredImgFluid} /></Link>
-            } else {
-              postTitle = <h2><Link to={node.fields.slug}>{title}</Link></h2>;
-            };
-            return (
-              <div className="post" key={node.fields.slug}>
-                {postTitle}
-                {imageQuery}
-                <p className="subtitle">
-                  <br></br>
-                  <h5>{node.frontmatter.date}</h5>
-                  {node.frontmatter.tags &&
-                    node.frontmatter.tags.map(tag => (
-                      <span key={tag} className="subtitle-tag">
-                        <Link to={'/tags/' + tag.toLowerCase()}>#{tag}</Link>
-                      </span>
-                    ))}
-                </p>
-                <p
-                  dangerouslySetInnerHTML={{ __html: node.frontmatter.spoiler }}
-                />
-              </div>
-            );
-          })}
-        </div>
+      <SEO 
+        title={posts[0].node.frontmatter.title}
+        description={posts[0].node.frontmatter.spoiler}
+        slug={posts[0].node.fields.slug}
+      />
+          <TitleBar previous={previous} next={next} start={start} end={end} post={posts[0].node}/>
+          <article dangerouslySetInnerHTML={{ __html: posts[0].node.html}} />
+          <TitleBar previous={previous} next={next} start={start} end={end} post={posts[0].node}/>
       </Layout>
     );
   }
@@ -67,8 +48,10 @@ export const pageQuery = graphql`
           fields {
             slug
           }
+          id
+          html
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "YYYY-MM-DD")
             title
             spoiler
             tags

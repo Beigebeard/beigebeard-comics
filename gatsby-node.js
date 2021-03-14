@@ -41,9 +41,13 @@ exports.createPages = ({ graphql, actions }) => {
         const posts = result.data.allMarkdownRemark.edges;
 
         _.each(posts, (post, index) => {
-          const previous =
-            index === posts.length - 1 ? null : posts[index + 1].node;
-          const next = index === 0 ? null : posts[index - 1].node;
+          //const previous =
+          //  index === posts.length - 1 ? null : posts[index + 1].node;
+          //const next = index === 0 ? null : posts[index - 1].node;
+          const previous = index === posts.length - 1 ? posts[index].node : posts[index + 1].node;
+          const next = index === 0 ? posts[index].node : posts[index - 1].node;
+          const start = posts[posts.length - 1].node
+          const end = posts[0].node
 
           createPage({
             path: post.node.fields.slug,
@@ -52,6 +56,8 @@ exports.createPages = ({ graphql, actions }) => {
               slug: post.node.fields.slug,
               previous,
               next,
+              start,
+              end
             },
           });
         });

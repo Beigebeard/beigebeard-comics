@@ -144,7 +144,7 @@ body.dark {
 
 a {
   color: var(--primary-color);
-  color: #0d0;
+  color: #0f0;
   
 }
 a:hover {
@@ -208,7 +208,7 @@ a:hover {
  */
 .article {
   font-size: 16px;
-  font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
+  font-family: 'Courier';
   color: white;
 }
 
@@ -216,7 +216,7 @@ a:hover {
   margin: 0;
   padding: 0;
   text-align: center;
-  color: #0d0;
+  color: #0f0;
   font-size: 2rem;
 }
 
@@ -237,7 +237,7 @@ a:hover {
 }
 
 .subtitle {
-  font-size: 15px;
+  font-size: 18px;
   margin-bottom: 0;
   text-align: center;
 }

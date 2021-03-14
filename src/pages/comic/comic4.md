@@ -1,5 +1,5 @@
 ---
-title: Chapter 01
+title: CH.01 PG.02
 page: Page 03
 date: 2021-03-01
 spoiler: Duis aute irure

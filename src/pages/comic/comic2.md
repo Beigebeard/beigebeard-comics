@@ -1,11 +1,10 @@
 ---
-title: Commodo Consequat
-page: Page 03
-date: 2018-10-10
+title: CH.01 PG.01
+date: 2018-11-10
 path: "/comic/comic2"
-spoiler: Duis aute irure
-featuredImage: ../../images/day3-gaming-mouse.png
-tags: ["webcomic", "comic", "post"]
+featuredImage: ../../images/day2-gaming-console.png
+spoiler: Excepteur sint
+tags: ["webcomic", "comic"]
 ---
 
-![Comic 2](../../images/day3-gaming-mouse.png)
+![Comic 1](../../images/day2-gaming-console.png)

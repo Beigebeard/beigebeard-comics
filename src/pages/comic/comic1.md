@@ -1,11 +1,10 @@
 ---
-title: Excepteur sint occaecat
-page: Page 03
-date: 2018-11-10
-path: "/comic/comic1"
-featuredImage: ../../images/day2-gaming-console.png
-spoiler: Excepteur sint
-tags: ["webcomic", "comic"]
+title: CH.01 PG.00
+date: 2018-10-10
+path: "/comic/comic2"
+spoiler: Duis aute irure
+featuredImage: ../../images/day3-gaming-mouse.png
+tags: ["webcomic", "comic", "post"]
 ---
 
-![Comic 1](../../images/day2-gaming-console.png)
+![Comic 2](../../images/day3-gaming-mouse.png)
