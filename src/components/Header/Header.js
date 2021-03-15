@@ -20,7 +20,7 @@ const Header = () => (
   render={data => (
     <header>
       <Navbar border="dark" bg="dark" expand="lg" variant="dark">
-        <Navbar.Brand href={'/'} style={{fontSize:"24px",marginLeft:"10px"}}>K<span style={{color:"white"}}>OGANUSAN</span> C<span style={{color:"white"}}>HRONICLES_</span></Navbar.Brand>
+        <Navbar.Brand href={'/'} style={{fontSize:"22px",marginLeft:"10px"}}>K<span style={{color:"white"}}>OGANUSAN</span> C<span style={{color:"white"}}>HRONICLES_</span></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav"/>
         <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto shadow-none" >

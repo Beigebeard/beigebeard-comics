@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed of gatsby-starter-webcomic]]></title><description><![CDATA[Template for webcomics / artwork]]></description><link>https://github.com/JLDevOps/gatsby-starter-webcomic</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 11 Mar 2021 06:00:38 GMT</lastBuildDate><item><title><![CDATA[CH.02 PG.01]]></title><link>https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic5/</link><guid isPermaLink="false">https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic5/</guid><pubDate>Tue, 02 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed of gatsby-starter-webcomic]]></title><description><![CDATA[Template for webcomics / artwork]]></description><link>https://github.com/JLDevOps/gatsby-starter-webcomic</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 14 Mar 2021 23:20:07 GMT</lastBuildDate><item><title><![CDATA[CH.02 PG.01]]></title><link>https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic5/</link><guid isPermaLink="false">https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic5/</guid><pubDate>Tue, 02 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -56,7 +56,21 @@
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CH.01 PG.01]]></title><link>https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic2/</link><guid isPermaLink="false">https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic2/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About]]></title><description><![CDATA[About Hi I’m Lorem ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna…]]></description><link>https://github.com/JLDevOps/gatsby-starter-webcomic/about/about/</link><guid isPermaLink="false">https://github.com/JLDevOps/gatsby-starter-webcomic/about/about/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;About&lt;/h1&gt;
+&lt;br/&gt;
+&lt;h2&gt;Hi I’m Lorem ipsum&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/em&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;FAQ&lt;/h2&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Tellus molestie nunc non blandit massa enim nec dui?&lt;/p&gt;
+&lt;p&gt;Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Donec ac odio tempor orci dapibus ultrices in&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Contact&lt;/h2&gt;
+&lt;p&gt;Reach me at &lt;a href=&quot;lorem@lorem.com&quot;&gt;Lorem@Lorem.com&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CH.01 PG.01]]></title><link>https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic2/</link><guid isPermaLink="false">https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic2/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
@@ -85,21 +99,7 @@
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About]]></title><description><![CDATA[About Hi I’m Lorem ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna…]]></description><link>https://github.com/JLDevOps/gatsby-starter-webcomic/about/about/</link><guid isPermaLink="false">https://github.com/JLDevOps/gatsby-starter-webcomic/about/about/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;About&lt;/h1&gt;
-&lt;br/&gt;
-&lt;h2&gt;Hi I’m Lorem ipsum&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/em&gt;
-&lt;br/&gt;&lt;/p&gt;
-&lt;h2&gt;FAQ&lt;/h2&gt;
-&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Tellus molestie nunc non blandit massa enim nec dui?&lt;/p&gt;
-&lt;p&gt;Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Donec ac odio tempor orci dapibus ultrices in&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Contact&lt;/h2&gt;
-&lt;p&gt;Reach me at &lt;a href=&quot;lorem@lorem.com&quot;&gt;Lorem@Lorem.com&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CH.01 PG.00]]></title><link>https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic1/</link><guid isPermaLink="false">https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic1/</guid><pubDate>Wed, 10 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CH.01 PG.00]]></title><link>https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic1/</link><guid isPermaLink="false">https://github.com/JLDevOps/gatsby-starter-webcomic/comic/comic1/</guid><pubDate>Wed, 10 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;

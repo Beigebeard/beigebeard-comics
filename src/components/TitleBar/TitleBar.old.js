@@ -14,12 +14,21 @@ class TitleBar extends React.Component {
 
         return (
         <div className="post-footer">
-          <ul>
-              {start && (<Link to={start.fields.slug} rel="start" style={{color:"#0f0",fontSize:"18px", fontFamily: "Courier"}}>
+          <ul
+            style={{
+              display: 'flex',
+              flexWrap: 'nowrap',
+              justifyContent: 'center',
+              listStyle: 'none',
+              padding: 0,
+              marginBottom: "18px",
+              marginTop: "0px",
+            }}>
+              {start && (<Link to={start.fields.slug} rel="start" style={{paddingRight: "36px", color:"#0f0",fontSize:"18px", fontFamily: "Courier"}}>
                   <FontAwesomeIcon icon={faAngleDoubleLeft} style={{verticalAlign: "-4px"}}/><span style={{color:"#fff"}}>START</span>
                 </Link>)}
               {previous && (
-                <Link to={previous.fields.slug} rel="prev" style={{color:"#0f0",fontSize:"18px", fontFamily: "Courier"}}>
+                <Link to={previous.fields.slug} rel="prev" style={{paddingRight: "90px", color:"#0f0",fontSize:"18px", fontFamily: "Courier"}}>
                   <FontAwesomeIcon icon={faAngleLeft} style={{verticalAlign: "-4px"}}/><span style={{color:"#fff"}}>PREV</span>
                 </Link>)}
             <div className="article">
@@ -33,12 +42,12 @@ class TitleBar extends React.Component {
             </div>
             
               {next && (
-                <Link to={next.fields.slug} rel="next" style={{color:"#0f0",fontSize:"18px", fontFamily: "Courier"}}>
+                <Link to={next.fields.slug} rel="next" style={{paddingLeft: "90px", color:"#0f0",fontSize:"18px", fontFamily: "Courier"}}>
                   <span style={{color:"#fff"}} >NEXT</span><FontAwesomeIcon icon={faAngleRight} style={{verticalAlign: "-4px"}}/>
                 </Link>
               )}
               {end && (
-                <Link to="/" rel="end" style={{color:"#0f0",fontSize:"18px", fontFamily: "Courier"}}>
+                <Link to="/" rel="end" style={{paddingLeft: "36px", color:"#0f0",fontSize:"18px", fontFamily: "Courier"}}>
                   <span style={{color:"#fff"}}>END</span><FontAwesomeIcon icon={faAngleDoubleRight} style={{verticalAlign: "-4px"}}/>
                 </Link>
               )}

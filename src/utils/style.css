@@ -274,3 +274,15 @@ a:hover {
   white-space: nowrap;
   text-overflow: ellipsis;
 }
+
+.post-footer ul {
+  width: 70%;
+  margin: auto;
+  align-content: space-evenly;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  list-style: none;
+  padding: 0;
+  margin-top: 0px;
+}
